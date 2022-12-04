@@ -1,0 +1,6 @@
+{"uid":1,"gender":"male","name":"ua","friends":[{"fid":1,"name":"aa"},{"fid":2,"name":"bb"}]}
+{"uid":2,"gender":"female","name":"ub","friends":[{"fid":2,"name":"bb"},{"fid":3,"name":"cc"}]}
+{"uid":3,"gender":"male","name":"uc","friends":[{"fid":1,"name":"aa"}]}
+{"uid":4,"gender":"female","name":"ud","friends":[{"fid":2,"name":"bb"}]}
+{"uid":5,"gender":"male","name":"ue","friends":[{"fid":1,"name":"aa"},{"fid":3, "name":"cc"},{"fid":4, "name":"dd"}]}
+{"uid":6,"gender":"female","name":"uf","friends":[{"fid":1,"name":"aa"},{"fid":2,"name":"bb"},{"fid":3,"name":"cc"}]}

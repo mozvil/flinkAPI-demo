@@ -1,0 +1,3 @@
+{"id":1,"friends":[{"name":"a","info":{"addr":"sh","gender":"male"}},{"name":"b","info":{"addr":"bj","gender":"female"}}]}
+{"id":2,"friends":[{"name":"c","info":{"addr":"gz","gender":"female"}},{"name":"d","info":{"addr":"wh","gender":"male"}}]}
+{"id":3,"friends":[{"name":"jeff","info":{"addr":"mh","gender":"male"}},{"name":"niny","info":{"addr":"cq","gender":"female"}}]}

@@ -1,0 +1,11 @@
+{
+	"namespace": "com.mozvil.demo.avro.schema",
+	"type": "record",
+	"name": "AvroEventBean",
+	"fields": [
+		{"name": "user", "type": "string"},
+		{"name": "eventId", "type": "string"},
+		{"name": "timestamp", "type": "long"},
+		{"name": "eventInfo", "type": {"type": "map", "values": "string"}}
+	]
+}
